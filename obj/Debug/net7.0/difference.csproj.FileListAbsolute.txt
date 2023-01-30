@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/difference/bin/Debug/net7.0/difference
+/home/sneg/Documents/C#/difference/bin/Debug/net7.0/difference.deps.json
+/home/sneg/Documents/C#/difference/bin/Debug/net7.0/difference.runtimeconfig.json
+/home/sneg/Documents/C#/difference/bin/Debug/net7.0/difference.dll
+/home/sneg/Documents/C#/difference/bin/Debug/net7.0/difference.pdb
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/difference.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/difference.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/difference.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/difference.AssemblyInfo.cs
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/difference.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/difference.dll
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/refint/difference.dll
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/difference.pdb
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/difference.genruntimeconfig.cache
+/home/sneg/Documents/C#/difference/obj/Debug/net7.0/ref/difference.dll
